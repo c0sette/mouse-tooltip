@@ -1,0 +1,7 @@
+﻿  MouseInjectDetection.cpp
+D:\MouseInjectDetection\MouseInjectDetection\MouseInjectDetection\MouseInjectDetection.cpp(84,23): warning C4101: 'stat': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MouseInjectDetection.vcxproj -> D:\MouseInjectDetection\MouseInjectDetection\x64\Release\MouseInjectDetection.exe
